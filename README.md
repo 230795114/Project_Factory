@@ -57,14 +57,14 @@ The problems above affect virtually entire career planning, job seeking and recr
 
 List of Problems (presented in questions form that the AI solution may provide the comprehensive answers to in much more efficient way than ever before):
 * problem 1 - How to perform a well informed decision for a career planning before the first work experience & at all consecutive experience levels?      
-* problem 2 - What are the skills needed to achieve desired career path? 
-* problem 3 - Probability of carrer in the desired profession within local 
-* problem 3 - Where in Europe it is most likely to deploy and advance in desired career model? 
-* problem 3 -
-* problem 3 -
-* problem 3 -
-* problem 3 -
-* problem 3 -
+* problem 2 - What are the hard/ soft skills needed to achieve desired career path - based of real live professional profiling - not just theoritical? 
+* problem 3 - What kind of training/ eperience is necessary? 
+* problem 4 - Where this training experience can be obtained?
+* problem 5 - Probability of carrer in the desired profession within local geography - based of real business volume and growth/decline forecasting? 
+* problem 6 - Where in Europe it is most likely to deploy and advance in desired career model? 
+* problem 7 - How much money can the desired career bring at different levels of seniority in the entire lifetime of employment?
+* problem 8 - Is the carrer path sustainable at any given region - in nominal and real terms (PPP) salary levels - would one be able to support a sustainable life style, create a family, afford the house etc. or different path should be selected? 
+* problem 9 - Is it possible that the similar career path may offer much more favorable outcomes in other member state?
 * problem 3 -
 * problem 3 -
 * problem 3 -
