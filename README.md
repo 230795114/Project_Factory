@@ -1,5 +1,5 @@
 # AITalentFairEU (AITFE): Smart Selection & Salary Clarity
-Final project for the Building AI course
+Final project for the Building AI course (written at the beginners level by non-coding participant)
 
 ## Summary
 
@@ -56,6 +56,8 @@ From the HR & recruitment perspectives the solution could eliminate some or comm
 The problems above affect virtually entire career planning, job seeking and recruitment processes, meaning that solution would affect anyone in working age and young people planning the possible study, technical skills or work paths selection as well as HR, recruitment and compensation boards of all employers across the EU.  
 
 List of Problems (presented in questions form that the AI solution may provide the comprehensive answers to in much more efficient way than ever before):
+
+Employees
 * problem 1 - How to perform a well informed decision for a career planning before the first work experience & at all consecutive experience levels?      
 * problem 2 - What are the hard/ soft skills needed to achieve desired career path - based of real live professional profiling - not just theoritical? 
 * problem 3 - What kind of training/ eperience is necessary? 
@@ -64,12 +66,21 @@ List of Problems (presented in questions form that the AI solution may provide t
 * problem 6 - Where in Europe it is most likely to deploy and advance in desired career model? 
 * problem 7 - How much money can the desired career bring at different levels of seniority in the entire lifetime of employment?
 * problem 8 - Is the carrer path sustainable at any given region - in nominal and real terms (PPP) salary levels - would one be able to support a sustainable life style, create a family, afford the house etc. or different path should be selected? 
-* problem 9 - Is it possible that the similar career path may offer much more favorable outcomes in other member state?
-* problem 3 -
-* problem 3 -
-* problem 3 -
-* problem 3 -
-problem 3 -
+* problem 9 - Is it possible that the similar career path may offer much more favorable outcomes in other member state on purchasing power parity basis?
+* problem 10 - What is the value of similar positions across the same and different industries?
+
+Employers
+* problem 1 - How to avoid missing on good candidates during the recruitment process? 
+* problem 2 - How do you compare different people skills for target positions versus practices for similar/ the same positions in other jurisdictions/ sectors/ business lines? 
+* problem 3 - How to gain valuable insight for salary benchmarking against broad market and positioning within any given type of organization?
+* problem 4
+* problem 5
+* problem 6
+* problem 7
+* problem 8
+* problem 9
+* problem 10
+
 
 
 
