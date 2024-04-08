@@ -10,7 +10,7 @@ With the introduction of Directive (EU) 2023/970 – “Equal pay for equal work
 
 The regulation primary focus is on closing unjustified gender pay gap men/women – but as far as I am concerned this in fact is far more reaching than just differences in gender pay tracking and resolution, as in fact the data obtained may reveal much more information beyond the original purpose and if analysed and applied correctly, can and will benefit the entire population of all employees giving a way to revolutionary solutions that can shape futures of millions of people in the EU. 
 
-https://eur-lex.europa.eu/EN/legal-content/summary/equal-pay-for-equal-work-or-work-of-equal-value-between-men-and-women-rules-on-pay-transparency.html
+Source: https://eur-lex.europa.eu/EN/legal-content/summary/equal-pay-for-equal-work-or-work-of-equal-value-between-men-and-women-rules-on-pay-transparency.html
 
 WHAT IS THE AIM OF THE DIRECTIVE (EU) 2023/970?
 It lays down minimum rules to reinforce:
@@ -69,17 +69,17 @@ Employees
 * problem 9 - Is it possible that the similar career path may offer much more favorable outcomes in other member state on purchasing power parity basis?
 * problem 10 - What is the value of similar positions across the same and different industries?
 
-Employers
+Employers (HR, recruitment, compensation boards)
 * problem 1 - How to avoid missing on good candidates during the recruitment process? 
 * problem 2 - How do you compare different people skills for target positions versus practices for similar/ the same positions in other jurisdictions/ sectors/ business lines? 
 * problem 3 - How to gain valuable insight for salary benchmarking against broad market and positioning within any given type of organization?
-* problem 4
-* problem 5
-* problem 6
-* problem 7
-* problem 8
-* problem 9
-* problem 10
+* problem 4 - How to avoid discriminatory practices, conscious/ unconscious biases in the work environment, avoid authorities scrutiny, remediation and/or penalty processes? 
+* problem 5 - How to remain fair & competitive at the same time?
+* problem 6 - How to reduce costs/time associated with the recruitment processes based on data based solutions?
+* problem 7 - How to Estimate, communicate of potential shortage/surpluses of desired candidates profiles in the given market and compare versus other markets with similar or the same specifications? 
+* problem 8 - 
+* problem 9 - 
+* problem 10 - 
 
 
 
