@@ -77,52 +77,89 @@ Employers (HR, recruitment, compensation boards)
 * problem 5 - How to remain fair & competitive at the same time?
 * problem 6 - How to reduce costs/time associated with the recruitment processes based on data based solutions?
 * problem 7 - How to Estimate, communicate of potential shortage/surpluses of desired candidates profiles in the given market and compare versus other markets with similar or the same specifications? 
-* problem 8 - 
-* problem 9 - 
-* problem 10 - 
+* problem 8 - How to identify and mitigate biases in recruitment processes by analyzing patterns of candidate selection and offering suggestions for more inclusive hiring practices?
+* problem 9 - How to avail of all the data in one place, which is otherwise hugely fragmented and dispersed across multiple platforms and sources?   
+* problem 10 - How to create personalized dashboards for users to track their career progress, set goals, and access relevant resources and recommendations?
 
 
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The idea behind this project is to provide the most complete and comprehensive tool up to date, where usually two "opposing" teams (Employees or job seekers vs HR/ Compensations boards) are brought together as partners to engage in fully transparent process, benefitting both parties by eliminating some of grey areas which have been traditionally associated with recruitment processes, by removal of information asymmetry, providing the structural framework on the rights and obligations, levelling playing field across the candidates (by upfront provision of realistic and fair salary ranges the candidates can expect given specific profile skills and experience prior to engagement) & the recruiters competing for talent (providing clear view of the fair pricing practices, competitors benchmarking, and potential for better candidates profiling/ screening).
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Potential Data Sources:
+
+With the transposition of the European directive on salary transparency in to the national systems as well as enhanced employees rights to demand and/or openly share/discuss the data on equivalent value positions salary ranges and career progression ranges, we can expect the new data bases to emerge in short term future and/or existing service providers to gain access to much wider scpoe of data than currently present in the market at both national level and consolidated at the European level. Whilst it is unclear how much of the reporting data provided by employers to monitoring bodies designated by the members states will be shared with the public, the opportunity arise to get ahead of curve and propose public private co-op in order to make the best use case and standardized solution to be broadly applied at the Europen level with a full adherence to privacy regulations and best practices for handling sensitive personal data, such as anonymization techniques or differential privacy mechanisms.
+
+Existing Data Sources:
+
+* Eurostat: Eurostat is the statistical office of the European Union and provides a wide range of data related to employment, salaries, demographics, and economic indicators across EU member states.
+
+* National Statistical Institutes: Each EU member state has its own national statistical institute that collects and publishes data on various aspects of the economy, including salaries, employment, and workforce demographics.
+
+* Job Portals: Websites like LinkedIn, Indeed, and Glassdoor provide valuable data on job listings, salaries, and employer information across different industries and regions.
+
+* Government Agencies: Government agencies responsible for labor and employment, such as the Department of Labor in each EU country, often collect and publish data on employment trends, wage statistics, and labor market forecasts.
+
+* Surveys and Reports: Academic research, industry reports, and surveys conducted by organizations such as the OECD, World Bank, and HR consulting firms can provide insights into salary trends, skill demands, and employment forecasts.
+
+* Company Databases: Some companies publicly disclose salary information, employee demographics, and recruitment practices in their annual reports or corporate social responsibility disclosures.
+
+* Purchasing Power Parity Data: Organizations like the World Bank and IMF publish data on purchasing power parity, which can be used to adjust salary data for cost-of-living differences across countries.
+
+* Education and Training Institutions: Universities, vocational schools, and training providers may offer data on course offerings, enrollment statistics, and job placement rates for different programs.
+
+* Labor Market Platforms: Online platforms that connect job seekers with employers often gather data on job listings, applicant profiles, and recruitment trends that can be valuable for analysis.
+
+* Open Data Repositories: Open data repositories like data.europa.eu and Kaggle offer access to a wide range of datasets related to employment, salaries, demographics, and other relevant topics.
+
+Machine Learning Models:
+
+* Regression Models: Use regression models to estimate salary ranges based on factors such as experience, education, industry, and location.
+* Classification Models: Employ classification models to categorize skills, job roles, or industries based on textual data from job descriptions or resumes.
+* Clustering Algorithms: Apply clustering algorithms to group similar job roles or profiles together based on features such as skills, education, or experience.
+* Time Series Forecasting: Utilize time series forecasting techniques to predict future employment trends and demand for specific skills or industries.
+  
+Natural Language Processing (NLP):
+
+* Keyword Extraction: Use NLP techniques to extract key skills, qualifications, or job requirements from textual data such as job postings or resumes.
+* Sentiment Analysis: Perform sentiment analysis on job postings or employee reviews to identify trends or patterns in employer satisfaction and job preferences.
+* Named Entity Recognition (NER): Employ NER to identify and categorize entities such as job titles, company names, or educational institutions mentioned in textual data.
+  
+Data Visualization Tools:
+
+* Dashboarding Platforms: Use dashboarding tools like Tableau, Power BI, or Plotly Dash to create interactive dashboards for visualizing employment trends, salary distributions, and geographic variations.
+* Heatmaps and Choropleths: Visualize regional differences in salary levels, employment growth, or skill demand using heatmaps or choropleth maps.
+  
+Deep Learning Models:
+
+* Neural Networks: Utilize neural networks for more complex tasks such as image recognition (e.g., analyzing company logos or job-related images) or sequence modeling (e.g., predicting career trajectories based on historical data).
+* Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM): Employ RNNs or LSTMs for analyzing sequential data such as time series data or textual data with temporal dependencies.
+  
+AI-powered Recruitment Tools:
+
+* Resume Screening Algorithms: Integrate AI-powered resume screening algorithms to automatically evaluate candidate resumes and identify top matches based on predefined criteria.
+* Candidate Ranking Systems: Develop candidate ranking systems that leverage AI to prioritize candidates based on their fit for specific job roles or organizational requirements.
+* Bias Detection Algorithms: Implement AI algorithms to detect and mitigate biases in recruitment processes, ensuring fair and unbiased candidate selection.
+  
+Collaborative Filtering:
+
+* Recommendation Systems: Implement recommendation systems to suggest relevant job opportunities, training programs, or career paths based on the user's profile, preferences, and historical behavior.
+  
+Model Evaluation and Optimization:
+
+* Cross-validation: Use cross-validation techniques to evaluate model performance and ensure robustness across different datasets or subsets of data.
+* Hyperparameter Tuning: Optimize model hyperparameters using techniques such as grid search or random search to improve model performance and generalization ability.
+  
+Ethical AI Practices:
+
+* Fairness and Bias Mitigation: Implement techniques to ensure fairness and mitigate biases in AI models, such as fairness-aware learning algorithms or bias detection metrics.
+* Privacy Preservation: Adhere to privacy regulations and best practices for handling sensitive personal data, such as anonymization techniques or differential privacy mechanisms.
 
 ## Challenges
 
