@@ -175,16 +175,31 @@ What are ethical and privacy concerns:
 * Fairness and Bias mitigation - should be at the forefront of the solution dealing with equality and inclussion. 
 
 
-
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Whilst I recognize that there are some unknown variables included in this thesis and that it is much easier to create an idea than to actually execute it, especially when considering the AI solution after spending just a few hours of online beginners training on fundamentals of AI and with virtually zero coding skills might be "a bit" far fetched. Considering the complexity, number and volume of data/ data sources and potential AI solutions needed to be deployed for such a huge project, may be hard to comprehend and that putting it to work is close to impossible (without the institutional  backing and access to close to unlimited resources), inspired by BuildingAI course I took the opportunity to dream BIG, whilst considering linking the real-live problems with regulatory changes and sketching potential for AI solutions.
+
+Note to whomever might be interested by this topic: I am open to collaborate with developers or data scientists who have experience in AI development, may have similar interests or are developing similar ideas, I am experienced in regulatory/ financial/ core banking projects from a non IT perspective but having worked closely with IT departments on transition, transformation, product development/ enhancement programs/projects/initiatives in the financial institutions (none of which involved AI solutions so far).      
+
+
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* I wish to thank The University of Helsinki & MinnaLearn as well as any collaborative bodies and community that creates elementsofai content, for the great job they do, and for providing well reasoned explanations to complex issues in accessible format and by smartly navigating through the topics whilst challenging the curiosity of the course participants at the same time.  
+*  For Data Sources and AI Methods I have leveraged on the ChatGPT 3.5 input
+  
+Web Sources Refs.:
+* https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2023%3A132%3ATOC&uri=uriserv%3AOJ.L_.2023.132.01.0021.01.ENG
+* https://eur-lex.europa.eu/EN/legal-content/summary/equal-pay-for-equal-work-or-work-of-equal-value-between-men-and-women-rules-on-pay-transparency.html
+* https://www.consilium.europa.eu/en/press/press-releases/2023/04/24/gender-pay-gap-council-adopts-new-rules-on-pay-transparency/
+* https://www.consilium.europa.eu/en/policies/pay-transparency/
+* https://www.europarl.europa.eu/news/en/press-room/20230327IPR78545/gender-pay-gap-parliament-adopts-new-rules-on-binding-pay-transparency-measures
+* https://www.pinsentmasons.com/out-law/analysis/eu-pay-transparency-directive
+* https://www.loyensloeff.com/insights/news--events/news/pay-transparency-directive-adopted-by-the-european-parliament/
+
+
+
+
+
+
