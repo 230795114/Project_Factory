@@ -86,7 +86,7 @@ Employers (HR, recruitment, compensation boards)
 
 ## How is it used?
 
-The idea behind this project is to provide the most complete and comprehensive tool up to date, where usually two "opposing" teams (Employees or job seekers vs HR/ Compensations boards) are brought together as partners to engage in fully transparent process, benefitting both parties by eliminating some of grey areas which have been traditionally associated with recruitment processes, by removal of information asymmetry, providing the structural framework on the rights and obligations, levelling playing field across the candidates (by upfront provision of realistic and fair salary ranges the candidates can expect given specific profile skills and experience prior to engagement) & the recruiters competing for talent (providing clear view of the fair pricing practices, competitors benchmarking, and potential for better candidates profiling/ screening).
+The idea behind this project is to provide the most complete and comprehensive tool up to date, where usually two "opposing" teams (Employees or job seekers vs HR/ Compensations boards) are brought together as partners to engage in fully transparent process, benefitting both parties by eliminating some of grey areas which have been traditionally associated with recruitment processes, by removal of information asymmetry, providing the structural framework on the rights and obligations, levelling playing field across the candidates (by upfront provision of realistic and fair salary ranges the candidates can expect given specific profile skills and experience prior to engagement & the valuable insight on the skills most likely needed to be successful ) & the recruiters competing for talent (providing clear view of the fair pricing practices, competitors benchmarking, and potential for better candidates profiling/ screening).
 
 
 
@@ -163,7 +163,18 @@ Ethical AI Practices:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+What the project will not solve: 
+
+* Knowledge of the best place to work within EU for any given skills and/or profession suggesting the highest chance for best sustainable working/living conditions or career development does not necessary solve the candidates/ recruiters problems as there are many factors affecting potential mobility across the members states (i.e. 24 different languages, willingness/ability to relocate, cultural differences, weather conditions etc.), but it allows for a better planning of skills/ career development path, providing guide for a well informed decision making.
+* Knowledge of variety of profiles that perform well in different roles, does not guarantee that sufficient amount of candidates can be sourced immediately to meet the hiring demands, but if communicated constantly over years to public, students, candidates, educational facility, training providers it might improve a chance that the right skills/training are developed at the right time to meet the demand.
+
+What are ethical and privacy concerns:
+
+* Privacy preservantion and also the data collection/storage/usage is highly regulated in EU and as such, all aspects of users data have to comply with GDPR and/or other relevant regulations.
+* Handling of sensitive information - with care, diligence, security
+* Fairness and Bias mitigation - should be at the forefront of the solution dealing with equality and inclussion. 
+
+
 
 ## What next?
 
